@@ -3,8 +3,8 @@
 
 ## I'm a Student!!
 
-- 🌱 I’m currently learning Java
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 Have good knowledge in different languages such as Java , Python , C , Kotlin
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ---
 
