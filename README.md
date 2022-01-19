@@ -3,8 +3,8 @@
 
 ## I'm a Student!!
 
-- 🌱 Have good knowledge in different languages such as Java , Python , C , Kotlin
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 Have good knowledge in different languages and framework such as Java , Python , C , Kotlin for Android , HTML5 , CSS , JavaScript , Bootstrap and Tailwind framework , Django for backend
+- 🥅 2022 Goals: Contribute more to Open Source projects and lern new things
 
 ---
 
