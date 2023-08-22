@@ -2,14 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharth9300&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=siddharth9300&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j M[ Y]" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth9300&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="137" src="https://i.pinimg.com/originals/82/05/fb/8205fb1fd521a37fbb5550661692b148.gif"  />
 
 ###
@@ -60,6 +52,16 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/siddharth9300/siddharth9300/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharth9300&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=siddharth9300&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j M[ Y]" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth9300&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=siddharth9300.siddharth9300&left_color=black&right_color=black&left_text=Visitor Count :"  />
+</div>
 
 ###
