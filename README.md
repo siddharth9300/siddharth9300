@@ -1,26 +1,65 @@
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Siddharth </h1>
+<h2 align="left">Hi 👋! My name is Siddharth and I'm a Web Developer from India</h2>
 
-## I'm a Student!!
+###
 
-- 🌱 Have good knowledge in different languages and framework such as Java , Python , C , Kotlin for Android , HTML5 , CSS , JavaScript , Bootstrap and Tailwind framework , Django for backend
-- 🥅 2023 Goals: Master MERN Stack
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharth9300&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=siddharth9300&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j M[ Y]" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth9300&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-<!-- CONNECTION -->    
-<h3 align="center">Connect with me:</h3>
-<br>
-<p align="center">
-  <a href="https://linkedin.com/in/siddharth9300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
-  <a href="https://instagram.com/siddharth_9300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
-</p>
+<img align="right" height="137" src="https://i.pinimg.com/originals/82/05/fb/8205fb1fd521a37fbb5550661692b148.gif"  />
 
+###
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+</div>
 
-<br />
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/siddharth9300/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/sidd9300" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/siddharth_9300/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="instagram logo"  />
+  </a>
+</div>
 
-[instagram]: https://instagram.com/siddharth_9300
-[linkedin]: https://linkedin.com/in/siddharth9300
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/siddharth9300/siddharth9300/output/snake.svg" alt="Snake animation" />
+
+###
