@@ -60,8 +60,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=siddharth9300.siddharth9300&left_color=black&right_color=black&left_text=Visitor Count :"  />
-</div>
 
-###
