@@ -101,4 +101,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=siddharth9300.siddharth9300&left_color=black&right_color=black&left_text=Views"  />
 </div>
 
+
+[![An image of @siddharth9300's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddharth9300)](https://holopin.io/@siddharth9300)
+
 ###
