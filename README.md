@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋! My name is Siddharth and I'm a Web Developer from India</h1>
 
-###
-[![An image of @siddharth9300's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddharth9300)](https://holopin.io/@siddharth9300)
 
 ###
 <h2 align="left">💻 Technologies:</h2>
@@ -102,6 +100,3 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=siddharth9300.siddharth9300&left_color=black&right_color=black&left_text=Views"  />
 </div>
 
-
-
-###
