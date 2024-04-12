@@ -76,7 +76,7 @@
 ###
 
 <div align="left">
-    <a href="www.linkedin.com/in/siddharth9300" target="_blank">
+    <a href="https://linkedin.com/in/siddharth9300" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="linkedin logo"  />
        </a>
       
