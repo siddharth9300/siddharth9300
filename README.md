@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Siddharth and I'm a Web Developer from India</h1>
+<h1 align="left">Hi 👋! My name is Siddharth and I'm a Web Developer</h1>
 
 
 [![An image of @siddharth9300's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddharth9300)](https://holopin.io/@siddharth9300)
