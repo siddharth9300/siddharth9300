@@ -6,8 +6,8 @@
 
 ###
 
-<> <a href="https://trustmrr.com/startup/n8n-builder" target="_blank"><Image src="https://trustmrr.com/api/embed/n8n-builder?format=svg" alt="TrustMRR verified revenue badge" width="220" height="90"/>
-          </a></>
+<a href="https://trustmrr.com/startup/n8n-builder" target="_blank"><Image src="https://trustmrr.com/api/embed/n8n-builder?format=svg" alt="TrustMRR verified revenue badge" width="220" height="90"/>
+          </a
 
           
 <h2 align="left">💻 Technologies:</h2>
